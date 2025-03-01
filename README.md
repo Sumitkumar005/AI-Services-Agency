@@ -2,6 +2,8 @@
 
 An AI application that simulates a full-service digital agency using multiple AI agents to analyze and plan software projects. Each agent represents a different role in the project lifecycle, from strategic planning to technical implementation.
 
+![High-Level Architecture Diagram](./High-Level%20Architecture%20Diagram.png)
+
 ## Demo: 
 
 https://github.com/user-attachments/assets/a0befa3a-f4c3-400d-9790-4b9e37254405
