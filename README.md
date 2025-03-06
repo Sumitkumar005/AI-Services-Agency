@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/a0befa3a-f4c3-400d-9790-4b9e37254405
 
 ## Features
 
-### Five specialized AI agents 
+### Five specialized AI agents.
 
 - **CEO Agent**: Strategic leader and final decision maker
   - Analyzes startup ideas using structured evaluation
